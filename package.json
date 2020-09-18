@@ -45,7 +45,7 @@
     "lodash.times": "^4.3.2",
     "mocha": "^4.0.0",
     "nock": "^9.0.13",
-    "node-forge": "^0.7.1",
+    "node-forge": "^0.10.0",
     "nyc": "^11.0.2",
     "proxyquire": "^1.8.0",
     "sinon": "^4.0.0",
