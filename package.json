@@ -34,18 +34,18 @@
     "lt": "lt --port 3000"
   },
   "dependencies": {
-    "probot": "~3.0.0"
+    "probot": "~14.2.4"
   },
   "devDependencies": {
     "assertive": "^2.3.4",
     "coveralls": "^3.0.0",
     "dotenv": "^4.0.0",
-    "jsonwebtoken": "^8.0.1",
+    "jsonwebtoken": "^9.0.2",
     "localtunnel": "^1.8.2",
     "lodash.times": "^4.3.2",
     "mocha": "^4.0.0",
     "nock": "^9.0.13",
-    "node-forge": "^0.7.1",
+    "node-forge": "^1.3.2",
     "nyc": "^11.0.2",
     "proxyquire": "^1.8.0",
     "sinon": "^4.0.0",
